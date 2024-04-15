@@ -1,0 +1,21 @@
+* {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  border: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Stick No Bills", sans-serif;
+  text-transform: uppercase;
+}
+
+body.route-home{
+  background: #3a3a3c;
+}
+
+body.route-habilidades{
+  background: #fff;
+}
